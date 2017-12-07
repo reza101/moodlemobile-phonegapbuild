@@ -61,7 +61,7 @@
     <icon src="icon.png" />
     <gap:splash src="splash.png" />
 
-    platform name="android">
+    <platform name="android">
 	<icon density="ldpi" src="resources/android/icons/drawable-ldpi-icon.png" />
 	<icon density="mdpi" src="resources/android/icons/drawable-mdpi-icon.png" />
 	<icon density="hdpi" src="resources/android/icons/drawable-hdpi-icon.png" />
